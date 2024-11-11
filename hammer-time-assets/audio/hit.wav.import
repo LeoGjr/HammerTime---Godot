@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hit.wav-229a13394fb68248a4e0144be82b6251.sample"
+
+[deps]
+
+source_file="res://hammer-time-assets/audio/hit.wav"
+dest_files=[ "res://.import/hit.wav-229a13394fb68248a4e0144be82b6251.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

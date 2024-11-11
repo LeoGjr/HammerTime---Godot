@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/nail.obj-1ada0b2a6f942b30094c44a372f95840.mesh"
+
+[deps]
+
+files=[ "res://.import/nail.obj-1ada0b2a6f942b30094c44a372f95840.mesh" ]
+
+source_file="res://hammer-time-assets/models/nail/nail.obj"
+dest_files=[ "res://.import/nail.obj-1ada0b2a6f942b30094c44a372f95840.mesh", "res://.import/nail.obj-1ada0b2a6f942b30094c44a372f95840.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
